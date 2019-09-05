@@ -1,10 +1,1 @@
- Volume in drive C is Windows8_OS
- Volume Serial Number is F28F-ECF5
-
- Directory of C:\Users\Srinivas\Desktop\MyProject
-
-09/05/2019  06:05 PM    <DIR>          .
-09/05/2019  06:05 PM    <DIR>          ..
-09/05/2019  06:05 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  880,941,211,648 bytes free
+This is DevOps Demo class
